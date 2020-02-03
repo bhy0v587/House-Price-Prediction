@@ -9,10 +9,11 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
-After we download the data, we get such files: 
+After downloading the data, we get such files: 
 
 The train.csv and test.csv contains the training data and the data on which the testing on model is to be performed. 
 The data_description.txt contains the description of the data.
+The sample_submission.csv contains the sample csv data.
 
 I achieve two kinds of models to predict houses prices.
 
