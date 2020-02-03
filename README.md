@@ -23,4 +23,4 @@ First one is using machine learning methods, by averaging and stacking models I 
 
 The second one is to try using deep learning to solve the problem, by optimizing hyperparameters I achieved the best score 0.12954 which seems not well-performed. The related code is here: DL_prediction.ipynb. 
 
-![alt text](https://github.com/bhy0v587/House-Price-Prediction/blob/master/image/dl_result.png)
+![alt text](https://github.com/bhy0v587/House-Price-Prediction/blob/master/image/DL_Result.png)
