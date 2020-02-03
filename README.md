@@ -18,8 +18,8 @@ I achieve two kinds of models to predict houses prices.
 
 First one is using machine learning methods, by averaging and stacking models I achieved the score 0.11725 and ranked within top 18% on the leaderboard. The related code is in this file: Data_processing & prediction.ipynb.
 
-![alt text](https://github.com/bhy0v587/House-Price-Prediction/blob/master/image/rank.jpg)
+![alt text](https://github.com/bhy0v587/House-Price-Prediction/blob/master/image/rank.png)
 
-The second one is to use deep learning to solve the problem, by optimizing hyperparameters I achieved the best score 0.12954. The related code is here: DL_prediction.ipynb. 
+The second one is to try using deep learning to solve the problem, by optimizing hyperparameters I achieved the best score 0.12954 which seems not well-performed. The related code is here: DL_prediction.ipynb. 
 
-![alt text](https://github.com/bhy0v587/House-Price-Prediction/blob/master/image/dl_result.jpg)
+![alt text](https://github.com/bhy0v587/House-Price-Prediction/blob/master/image/dl_result.png)
