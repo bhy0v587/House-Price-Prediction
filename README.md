@@ -15,6 +15,22 @@ The train.csv and test.csv contains the training data and the data on which the 
 The data_description.txt contains the description of the data.
 The sample_submission.csv contains the sample csv data.
 
+## Methods
+- Visualization: analyze data distribution and relevance
+- Feature engineering: drop outliers, add loss data and new properties, data transformation and vectorize non-numeric properties...
+- Models seclection and Ensemble learning
+
+### Requirements
+- Python 3.7
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- Sklearn
+- Torch 1.3.1 
+
+## Results
+
 I achieve two kinds of models to predict houses prices.
 
 First one is using machine learning methods, by averaging and stacking models I achieved the score 0.11725 and ranked within top 18% on the leaderboard. The related code is in this file: Data_processing & prediction.ipynb.
@@ -24,3 +40,11 @@ First one is using machine learning methods, by averaging and stacking models I 
 The second one is to try using deep learning to solve the problem, by optimizing hyperparameters I achieved the best score 0.12954 which seems not well-performed. The related code is here: DL_prediction.ipynb. 
 
 ![alt text](https://github.com/bhy0v587/House-Price-Prediction/blob/master/image/DL_Result.png)
+
+## Analysis and Improvement
+- Deeper feature engineering
+- Take more time tuning models for global optimal solution
+- Underutilize visualization packages (matplotlib, seaborn...)
+- Try more model ensemble methods with different models and find teammates
+
+
